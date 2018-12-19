@@ -116,4 +116,7 @@ while(tablo.length>0){
     tabloMin=99999;
 }
 
+console.log('git');
+
+
 
